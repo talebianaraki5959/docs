@@ -50,7 +50,7 @@ You can edit a category to change the category's emoji, title, description, and 
 1. {% data reusables.discussions.edit-category-details %}
   ![Editing emoji, title, description, and discussion format for existing category](/assets/images/help/discussions/edit-existing-category-details.png)
 1. Click **Save changes**.
-  !["Save changes" button for existing category](/assets/images/help/discussions/existing-category-click-save-changes-button.png)
+  !["Save changes" button for existin7g category](/assets/images/help/discussions/existing-category-click-save-changes-button.png)
 
 ## Deleting a category
 
